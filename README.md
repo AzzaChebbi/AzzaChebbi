@@ -20,9 +20,6 @@
   <br/><br/><br/>
 </div>
 
-# 📊 Github Stats:
-<!--onedark, cobalt, synthwave, highcontrast, dracula-->
-![Azza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzzaChebbi&show_icons=true&theme=dracula)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF69B4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;" />
